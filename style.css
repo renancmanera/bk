@@ -1,0 +1,169 @@
+* {
+    text-align: center;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(136, 50, 61, 0.205);
+}
+
+nav {
+    padding: 3vh 0;
+    background-color: rgb(216, 76, 95);
+}
+
+.navegacao {
+   font-weight: bold;
+   font-size: 2.5vh;
+}
+
+.sobre {
+    padding: 15vh;
+}
+
+.sobre:hover {
+    background-color: rgb(194, 167, 16);
+    color: white;
+    padding: 15vh;
+}
+
+.delivery {
+    padding: 15vh;
+}
+
+.delivery:hover {
+    background-color: rgb(194, 167, 16);
+    color: white;
+    padding: 15vh;
+}
+
+.opine {
+    padding: 15vh;
+}
+
+.opine:hover {
+    background-color: rgb(194, 167, 16);
+    color: white;
+    padding: 15vh;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    margin: 0;
+}
+
+.foto1 {
+    width: 100%;
+    height: 50vh;
+    margin-bottom: 2vh;
+}
+
+h1 {
+    color: rgb(216, 76, 95);
+    margin-top: 4vh;
+    font-size: 5vh;
+}
+
+.king {
+    color: rgb(194, 167, 16);
+}
+
+.coroa {
+    width: 7vh;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    margin-top: 3vh;
+    font-size: 3.5vh;
+}
+
+main {
+    display: flex;
+    margin: 0;
+
+}
+
+.mainleft,
+.mainright {
+    width: 100%;
+}
+.texto {
+    text-align: justify;
+    text-decoration: none;
+    margin-top: 3vh;
+    font-size: 3vh;
+}
+
+.graça {
+    color: rgb(255, 0, 0);
+}
+
+.mainleft {
+    width: 70%;
+    height: 20vh;
+    padding: 4vh 10vh 0 20vh;
+    margin-left: 7vh;
+}
+
+.mainright {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin-top: 2.5vh;
+    margin-right: 15vh;
+}
+
+.foto2 {
+    width: 20vh;
+    background-color: rgba(216, 76, 95, 0.322);
+}
+
+.foto3 {
+    width: 20vh;
+    background-color: rgba(216, 76, 95, 0.322);
+}
+
+.foto4 {
+    width: 20vh;
+    background-color: rgba(216, 76, 95, 0.322);
+}
+
+.foto5 {
+    width: 20vh;
+    background-color: rgba(216, 76, 95, 0.322);
+}
+
+.foto6 {
+    width: 20vh;
+    background-color: rgba(216, 76, 95, 0.322);
+}
+
+.foto7 {
+    width: 20vh;
+    background-color: rgba(216, 76, 95, 0.322);
+}
+
+p {
+    color: black;
+    margin-bottom: 5vh;
+    text-decoration: overline;
+    font-size: 3vh;
+}
+
+
+footer {
+    padding: 1vh 0;
+    background-color: rgb(216, 76, 95);
+    margin-top: 0vh;
+    bottom: 0;
+    width: 100%;
+}
+
+.bk {
+    width: 6vh;
+}
