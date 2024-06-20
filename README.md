@@ -1,4 +1,4 @@
-# BK-PROVA
+# Burguer King
 
 Projeto realizado durante a prova com um modelo específico a ser seguido.
 
